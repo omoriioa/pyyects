@@ -1,2 +1,2 @@
-# pyyects
+# pyects
 proyectos en python
